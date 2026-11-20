@@ -112,9 +112,9 @@ A feature-rich **Counter-Strike 2 analytics platform** that parses match demos a
 
 <div align="center">
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaBarrass&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Josh's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshuaBarrass&theme=tokyonight&hide_border=true&background=0D1117)
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarrassDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Josh's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=BarrassDev&theme=tokyonight&hide_border=true&background=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaBarrass&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarrassDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
